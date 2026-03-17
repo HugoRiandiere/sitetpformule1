@@ -141,16 +141,16 @@
             </tr>
           </thead>
           <tbody>
-            <tr><td>Red Bull</td><td>Max Verstappen</td><td>Sergio Pérez</td></tr>
-            <tr><td>Mercedes</td><td>Lewis Hamilton</td><td>George Russell</td></tr>
-            <tr><td>Ferrari</td><td>Charles Leclerc</td><td>Carlos Sainz</td></tr>
+            <tr><td>Red Bull</td><td>Max Verstappen</td><td>Isack Hadjar</td></tr>
+            <tr><td>Mercedes</td><td>George Russell</td><td>Kimi Antonelli</td></tr>
+            <tr><td>Ferrari</td><td>Lewis Hamilton</td><td>Charles Leclerc</td></tr>
             <tr><td>McLaren</td><td>Lando Norris</td><td>Oscar Piastri</td></tr>
             <tr><td>Aston Martin</td><td>Fernando Alonso</td><td>Lance Stroll</td></tr>
-            <tr><td>Alpine</td><td>Pierre Gasly</td><td>Esteban Ocon</td></tr>
-            <tr><td>Williams</td><td>Alexander Albon</td><td>Logan Sargeant</td></tr>
-            <tr><td>AlphaTauri</td><td>Yuki Tsunoda</td><td>Daniel Ricciardo</td></tr>
-            <tr><td>Haas</td><td>Kevin Magnussen</td><td>Nico Hülkenberg</td></tr>
-            <tr><td>Alfa Romeo</td><td>Valtteri Bottas</td><td>Guanyu Zhou</td></tr>
+            <tr><td>Alpine</td><td>Pierre Gasly</td><td>Franco Colapinto</td></tr>
+            <tr><td>Williams</td><td>Alexander Albon</td><td>Carlos Sainz</td></tr>
+            <tr><td>AlphaTauri</td><td>Linblad</td><td>Liam Lawson</td></tr>
+            <tr><td>Haas</td><td>Eteban Ocon</td><td>Oliver Bearman</td></tr>
+            <tr><td>Audi</td><td>Nico Hulkenberg</td><td>Valterri Bottas</td></tr>
           </tbody>
         </table>
       </div>
