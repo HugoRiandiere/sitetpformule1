@@ -1,12 +1,9 @@
-
 <!DOCTYPE html>
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
     <title>Chronique F1 - Performance</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet">
-    <li class="nav-item"><a class="nav-link" href="index.html">ACCUEIL</a></li>
-    <li class="nav-item"><a class="nav-link active" href="chronique.html">CHRONIQUE</a></li>
     <style>
   
         body {
@@ -94,8 +91,7 @@
     <a class="navbar-brand fw-bold text-danger" href="#">F1 CHRONIQUE</a>
     <div class="collapse navbar-collapse" id="menu">
         <ul class="navbar-nav ms-auto">
-          <li class="nav-item"><a class="nav-link" href="index.html">ACCUEIL</a></li>
-          <li class="nav-item"><a class="nav-link active" href="chronique.html">CHRONIQUE</a></li>
+          <li class="nav-item"><a class="nav-link" href="./formulaone.html">ACCUEIL</a></li>
           <li class="nav-item"><a class="nav-link" href="#">FORUM</a></li>
         </ul>
       </div>
